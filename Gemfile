@@ -1,7 +1,7 @@
 source "http://rubygems.org"
 
 # use Rubinius
-ruby "2.1.0", :engine => "rbx", :engine_version => "2.2.1"
+ruby "2.1.0", :engine => "rbx", :engine_version => "2.2.5"
 
 # add the Puma gem
 gem "puma", "~> 2.2.2"
